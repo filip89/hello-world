@@ -1,3 +1,3 @@
 # hello-world
-tutorial
+tutorial \n
 I'm writing a bit about myself...
